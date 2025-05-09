@@ -1,0 +1,8 @@
+@Tutorial8_HostAddress = http://localhost:5128
+
+GET {{Tutorial8_HostAddress}}/api/Trips/
+Accept: application/json
+
+###
+
+//nadawanie sposobu w jaki łączyć się do bazy danych
